@@ -1,0 +1,7 @@
+*.sh text eol=lf
+*.py text eol=lf
+*.patch text eol=lf
+*.json text eol=lf
+*.ini text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf

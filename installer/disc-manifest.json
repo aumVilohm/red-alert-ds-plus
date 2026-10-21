@@ -1,0 +1,66 @@
+{
+  "discs": {
+    "allied": {
+      "raw_sha256": "83a9fdef16e4411280a8f3534a62d4bf1c277733d1172f3627a6a09c1f468286",
+      "iso_sha256": "0ba4b0852d189970a2c7ee42dc326f3c9942d75e3168d8fe8a9bf93bdb0602d6",
+      "iso_bytes": 583086080,
+      "tracks": 1
+    },
+    "soviet": {
+      "raw_sha256": "cb68d61c02dcbded084e9a451d550a9cd2e1c09f9e178e5036a084afe4a4c78a",
+      "iso_sha256": "ab4288d60b8e43f20d955e27e6f03cf84c5d1e3360c2e48752ed7de4f0e3ffd9",
+      "iso_bytes": 629057536,
+      "tracks": 1
+    },
+    "counterstrike": {
+      "raw_sha256": "c8975cfd172ac6fc4eae62e44444d28c821a58a83be4783a3171f8c01a5fc529",
+      "iso_sha256": "ef26892996820803249320813cbce107b0b04cfdf08f02fa800f534a2f1b0b08",
+      "iso_bytes": 326473728,
+      "tracks": 6
+    },
+    "aftermath": {
+      "raw_sha256": "60b99b7b64949c90b92994516c634dc0b322774064e7319950ecd2fa949c30b4",
+      "iso_sha256": "6cf21322646600e9a41e15990f442a4f3b4049e762bf0f23eb587284c18fcf07",
+      "iso_bytes": 385026048,
+      "tracks": 6
+    }
+  },
+  "files": {
+    "EXPAND.MIX": {
+      "bytes": 458242,
+      "sha256": "e144753593161f867a26428f901a09de5cb8a71bab6e690dd9ca727e76d4f724"
+    },
+    "EXPAND2.MIX": {
+      "bytes": 469922,
+      "sha256": "e379b23ce6c7af9d4f7469e10b788210124cb92e8b6e3978b9569802edfdfc9a"
+    },
+    "HIRES1.MIX": {
+      "bytes": 90264,
+      "sha256": "48c407f80f1fdbc86ac2689c00339927b2127a758871e998c9942b7a7d93e07d"
+    },
+    "LORES1.MIX": {
+      "bytes": 57076,
+      "sha256": "5b83e8d731fc78041647f19adbb82f4e71cc09b837d2492b8f2a0520e11de641"
+    },
+    "REDALERT.MIX": {
+      "bytes": 25046328,
+      "sha256": "ad5ad68a08d1d6bb073324e91beb02543deeb9e1b8dca922f3cef768dda07b53"
+    },
+    "aftermath/MAIN.MIX": {
+      "bytes": 270673111,
+      "sha256": "c3326820afe8dfb714f7db9335acb1d36c4cc0c344a20157aa7ea8af7399b616"
+    },
+    "allied/MAIN.MIX": {
+      "bytes": 454605294,
+      "sha256": "512beab10095f2422498f16ce468fca613bf6bec2a6257bbc18a1d01691d1482"
+    },
+    "counterstrike/MAIN.MIX": {
+      "bytes": 236034607,
+      "sha256": "f747654b0ff09584086460d1b74ba400c2cc4dd9d467e27ca38c99443c45dae2"
+    },
+    "soviet/MAIN.MIX": {
+      "bytes": 500577414,
+      "sha256": "cbcddf7fc75b2924728a2698307b97605557528b99e5f175d3d5de8f6c96de3c"
+    }
+  }
+}

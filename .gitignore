@@ -1,0 +1,18 @@
+# Game data and disc images: never in this repository.
+*.zip
+*.bin
+*.BIN
+*.cue
+*.CUE
+*.iso
+*.ISO
+*.mix
+*.MIX
+*.sav
+
+# Upstream sources and build products.
+upstream/
+build/
+dist/
+__pycache__/
+.DS_Store

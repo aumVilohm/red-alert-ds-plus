@@ -1,0 +1,6 @@
+__pycache__/
+images/*
+!images/.gitkeep
+engine/
+ready-to-copy/
+.red-alert-prepare-*/
